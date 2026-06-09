@@ -1,7 +1,6 @@
 # Each line: Game name | full exe path
 
-
-EA Sports FC 26 | C:\Program Files (x86)\Steam\steamapps\common\EA SPORTS FC 26\FC26.exe
+EA Sports FC 26 | C:\Program Files (x86)\Steam\steamapps\common\Ea Sports FC 2026\FC26.exe
 Path of Exile 2 | C:\Program Files (x86)\Steam\steamapps\common\Grinding Gear Games\Path of Exile 2\pathofexile.exe
 Once Human | C:\Program Files (x86)\Steam\steamapps\common\Once Human\Once_Human.exe
 Rune Dice | C:\Program Files (x86)\Steam\steamapps\common\Rune Dice\Binaries\Win64\Rune Dice.exe 
